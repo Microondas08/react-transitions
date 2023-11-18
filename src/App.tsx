@@ -1,7 +1,8 @@
-import { Example } from "./examples/transition-2/Example";
+import { Login } from "./examples/Login/login";
+
 
 function App() {
-  return <Example />;
+  return <Login />;
 }
 
 export default App;
